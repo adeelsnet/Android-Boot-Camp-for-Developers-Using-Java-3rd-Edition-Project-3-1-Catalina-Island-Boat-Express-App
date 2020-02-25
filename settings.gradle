@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name='Catalina Island Boat Express'
